@@ -1,0 +1,7 @@
+{
+  "name": "JS Eval",
+  "author": "YourName",
+  "description": "Evaluate JS code in Vendetta/Unbound",
+  "version": "1.0.0",
+  "main": "plugin.js"
+}
